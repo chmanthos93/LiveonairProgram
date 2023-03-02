@@ -1,0 +1,20 @@
+body[b-x10t51lyua] {
+}
+.iframe-container[b-x10t51lyua] {
+    width: 100%;
+    min-height: 90vh;
+    overflow: hidden;
+}
+
+.iframe-responsive[b-x10t51lyua] {
+    /*padding-top: 8%;*/
+    position: relative;
+    top: 0px;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    width: 100%;
+    min-height: 90vh;
+    height: 100%;
+    border: none;
+}
