@@ -1,0 +1,7 @@
+C:\Users\ChManthos\Desktop\LiveonairProgram\obj\Docker\publish\LiveonairProgram.exe
+C:\Users\ChManthos\Desktop\LiveonairProgram\obj\Docker\publish\appsettings.Development.json
+C:\Users\ChManthos\Desktop\LiveonairProgram\obj\Docker\publish\appsettings.json
+C:\Users\ChManthos\Desktop\LiveonairProgram\obj\Docker\publish\LiveonairProgram.dll
+C:\Users\ChManthos\Desktop\LiveonairProgram\obj\Docker\publish\LiveonairProgram.deps.json
+C:\Users\ChManthos\Desktop\LiveonairProgram\obj\Docker\publish\LiveonairProgram.runtimeconfig.json
+C:\Users\ChManthos\Desktop\LiveonairProgram\obj\Docker\publish\LiveonairProgram.pdb
