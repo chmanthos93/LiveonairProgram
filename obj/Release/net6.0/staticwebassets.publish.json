@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "EL6wthwNvFOajpEqz6mej3K7FsAo6E4ZAm+enrRTTJQ=",
+  "Hash": "yOWc20ci0fxWEmGfaag0vy651jIB/WThL1ELBY4xSfg=",
   "Source": "LiveonairProgram",
   "BasePath": "_content/LiveonairProgram",
   "Mode": "Default",
@@ -83,6 +83,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\ChManthos\\Desktop\\LiveonairProgram\\wwwroot\\images\\finalposter.jpg",
+      "SourceId": "LiveonairProgram",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ChManthos\\Desktop\\LiveonairProgram\\wwwroot\\",
+      "BasePath": "_content/LiveonairProgram",
+      "RelativePath": "images/finalposter.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\finalposter.jpg"
     },
     {
       "Identity": "C:\\Users\\ChManthos\\Desktop\\LiveonairProgram\\wwwroot\\images\\poster.jpg",
