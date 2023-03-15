@@ -3,11 +3,27 @@
 @{
     ViewData["Title"] = "Home page";
 }
+<style>
+.photo {
+    display: table;
+}
+.photo a {
+    vertical-align: middle;
+    display: table-cell;
+}
+.photo img {
+    display: block;
+    height: auto;
+    width: 100%;
+}
+</style>
 
     <div style="padding-top:10px;" class="row">
 
-    <div class="col-4">
-        <img src="./images/finalposter.jpg" class="img-fluid" alt="Responsive image">
+    <div class="col-4 photo">
+        <a>
+        <img class="img-fluid photo" src="./images/armonialogo.png" alt="Responsive image">
+    </a>
     </div>
 
     <div class="col-8">
