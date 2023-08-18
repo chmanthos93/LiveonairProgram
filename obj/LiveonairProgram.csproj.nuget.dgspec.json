@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ChManthos\\Desktop\\LiveonairProgram\\LiveonairProgram\\LiveonairProgram.csproj": {}
+    "C:\\Users\\ChManthos\\Documents\\GitHub\\LiveonairProgram\\LiveonairProgram.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ChManthos\\Desktop\\LiveonairProgram\\LiveonairProgram\\LiveonairProgram.csproj": {
+    "C:\\Users\\ChManthos\\Documents\\GitHub\\LiveonairProgram\\LiveonairProgram.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ChManthos\\Desktop\\LiveonairProgram\\LiveonairProgram\\LiveonairProgram.csproj",
+        "projectUniqueName": "C:\\Users\\ChManthos\\Documents\\GitHub\\LiveonairProgram\\LiveonairProgram.csproj",
         "projectName": "LiveonairProgram",
-        "projectPath": "C:\\Users\\ChManthos\\Desktop\\LiveonairProgram\\LiveonairProgram\\LiveonairProgram.csproj",
+        "projectPath": "C:\\Users\\ChManthos\\Documents\\GitHub\\LiveonairProgram\\LiveonairProgram.csproj",
         "packagesPath": "C:\\Users\\ChManthos\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ChManthos\\Desktop\\LiveonairProgram\\LiveonairProgram\\obj\\",
+        "outputPath": "C:\\Users\\ChManthos\\Documents\\GitHub\\LiveonairProgram\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ChManthos\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -64,7 +64,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }
