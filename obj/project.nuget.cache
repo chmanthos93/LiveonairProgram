@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1TRhKoe9XryJHj6CA57a7ReUHxe6VNFu+ixg8XvSsr14CzXY6bEptMCW2VRveTCZIkuq4o1mDbeNjsYi6mlFAw==",
+  "dgSpecHash": "gVX/Wd2dTPPyw603AS+SKVF4FSvK6e6xNvLzlsgaN+h6fw6hunHHxRYxLduj2C4XN2UE4HYHdwfC81KQXPiXEA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ChManthos\\Documents\\GitHub\\LiveonairProgram\\LiveonairProgram.csproj",
+  "projectFilePath": "C:\\Users\\ChManthos\\Desktop\\LiveonairProgram\\LiveonairProgram.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ChManthos\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.0\\microsoft.visualstudio.azure.containers.tools.targets.1.17.0.nupkg.sha512"
   ],

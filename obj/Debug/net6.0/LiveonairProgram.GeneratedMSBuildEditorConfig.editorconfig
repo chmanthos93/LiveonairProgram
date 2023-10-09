@@ -9,37 +9,37 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = LiveonairProgram
 build_property.RootNamespace = LiveonairProgram
-build_property.ProjectDir = C:\Users\ChManthos\Documents\GitHub\LiveonairProgram\
+build_property.ProjectDir = C:\Users\ChManthos\Desktop\LiveonairProgram\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\ChManthos\Documents\GitHub\LiveonairProgram
+build_property.MSBuildProjectDirectory = C:\Users\ChManthos\Desktop\LiveonairProgram
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/ChManthos/Documents/GitHub/LiveonairProgram/Pages/Error.cshtml]
+[C:/Users/ChManthos/Desktop/LiveonairProgram/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ChManthos/Documents/GitHub/LiveonairProgram/Pages/Privacy.cshtml]
+[C:/Users/ChManthos/Desktop/LiveonairProgram/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ChManthos/Documents/GitHub/LiveonairProgram/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/ChManthos/Desktop/LiveonairProgram/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ChManthos/Documents/GitHub/LiveonairProgram/Pages/_ViewImports.cshtml]
+[C:/Users/ChManthos/Desktop/LiveonairProgram/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ChManthos/Documents/GitHub/LiveonairProgram/Pages/_ViewStart.cshtml]
+[C:/Users/ChManthos/Desktop/LiveonairProgram/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ChManthos/Documents/GitHub/LiveonairProgram/Pages/Index.cshtml]
+[C:/Users/ChManthos/Desktop/LiveonairProgram/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-x10t51lyua
 
-[C:/Users/ChManthos/Documents/GitHub/LiveonairProgram/Pages/Shared/_Layout.cshtml]
+[C:/Users/ChManthos/Desktop/LiveonairProgram/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-xa4ayg7zc2
